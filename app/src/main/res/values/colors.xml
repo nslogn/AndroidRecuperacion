@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#034F1B</color>
+    <color name="greenLight">#9cba8f</color>
+    <color name="greenVivid">#058789</color>
+    <color name="red">#901a1a</color>
+    <color name="redLight">#d03b3b</color>
+    <color name="pikachuRed">#e92929</color>
+    <color name="pikachuRed2">#ff4949</color>
+    <color name="yellow">#cdd873</color>
+    <color name="yellowLight">#fffeed</color>
+    <color name="pikachuYellow">#ffe62d</color>
+    <color name="pikachuYellow2">#ffe62d</color>
+    <color name="pikachuYellow3">#fdff80</color>
+
+</resources>
